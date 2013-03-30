@@ -52,8 +52,8 @@
     [self customizeGlobalTheme];
     
     
-    [Parse setApplicationId:@"dEBWIG6NfAiPS706pnUXpS62j0e2It1ryp7L7ld7"
-                  clientKey:@"v8XZIsZEoA9YzCjfGpBqcZ1arIQmZCb0pbptXB9D"];
+    [Parse setApplicationId:@""
+                  clientKey:@""];
     
     [application registerForRemoteNotificationTypes:
      UIRemoteNotificationTypeBadge |
